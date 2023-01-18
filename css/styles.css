@@ -6,6 +6,11 @@ body {
     color: #66BFBF;
   }
 
-  dl{
-    list-style: none;
-  }
+dt {
+    font-weight: bold;
+}
+
+dd {
+    font-size: 0.912rem;
+    margin-bottom: 1em;
+}
